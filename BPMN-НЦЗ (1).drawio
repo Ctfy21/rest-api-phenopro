@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T09:01:40.910Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="D_aqqq5sVPNdl7pJtr1M" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T09:03:15.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="GRr3TEyl9NwZRo-fRLeh" version="23.0.2" type="github">
   <diagram name="Страница — 1" id="YAEtq28-chyO94Poa2OC">
     <mxGraphModel dx="1066" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="S7KA-RrN71qxMTI1jgzs-6" value="Является ли шаблонной" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbwAHKaqkKXnbk_BlWzs-15">
           <mxGeometry y="80" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S7KA-RrN71qxMTI1jgzs-29" value="Номер ряда в ящике" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="zbwAHKaqkKXnbk_BlWzs-15">
+          <mxGeometry y="110" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zbwAHKaqkKXnbk_BlWzs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zbwAHKaqkKXnbk_BlWzs-24" target="zbwAHKaqkKXnbk_BlWzs-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
